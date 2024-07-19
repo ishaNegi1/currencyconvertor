@@ -21,13 +21,13 @@ function InputBox({
             placeholder="Amount"
             value={amount}
             disabled={amountDisable}
-            className=" w-1/2 rounded-md font-semibold"
+            className=" w-2/3 sm:w-1/2 rounded-md font-semibold"
             onChange={(e) => {
               onAmountChange && onAmountChange(Number(e.target.value));
             }}
           />
         </div>
-        <div className="w-1/2 p-2">
+        <div className="w-1/2 sm:p-2">
           <p className="pb-1 text-slate-700">Currency Type</p>
           <select
             className=" w-1/2 rounded-md font-semibold ml-7"

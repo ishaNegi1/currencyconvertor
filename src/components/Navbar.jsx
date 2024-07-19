@@ -8,7 +8,7 @@ export default function Navbar() {
        </div>
        <div>
       <h1
-        className=" text-white sm:text-4xl text-3xl font-semibold"
+        className=" text-white sm:text-4xl text-xl font-semibold"
       >
         Currency Convertor
       </h1>
