@@ -9,7 +9,7 @@ This is a simple and responsive Currency Converter web application built with Re
 ✅ Responsive layout with Tailwind CSS</br>
 
 <h2>🌐 Live Demo</h2>
-👉 <a href="https://currencyswitch.vercel.app/" target="_blank">Click here</a> to use the live application
+👉 <a href="https://currencyswitch.vercel.app/" target="_blank">Click here </a> to use the live application
 
 <h2>🤝 Contributing</h2>
 Feel free to contribute by submitting issues or pull requests!
