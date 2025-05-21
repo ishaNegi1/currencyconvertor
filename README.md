@@ -2,7 +2,7 @@
 This is a simple and responsive Currency Converter web application built with React.js. It allows users to convert an amount from one currency to another using real-time exchange rates fetched from an external API.
 
 <h2>📌 Features</h2>
-✅ Real-time currency exchange rates using @fawazahmed0/currency-api</br>
+✅ Real-time currency exchange rates using <a href="@fawazahmed0/currency-api" target="_blank">@fawazahmed0/currency-api</a></br>
 ✅ User-friendly interface with clean design</br>
 ✅ Currency selection for both source and target</br>
 ✅ Conversion results rounded to 3 decimal places</br>
